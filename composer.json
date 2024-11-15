@@ -1,0 +1,15 @@
+{
+    "name": "user/otus",
+    "autoload": {
+        "psr-4": {
+            "User\\Otus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey",
+            "email": "uniqcle@yandex.ru"
+        }
+    ],
+    "require": {}
+}
